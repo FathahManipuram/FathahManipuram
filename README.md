@@ -1,4 +1,6 @@
-# Hi 👋 I'm Abdul Fathah
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Fathah%20Manipuram&fontAlign=50" alt="Banner" />
+</p>
 
 ### Full Stack Developer | MERN Stack | Cloud Learner
 

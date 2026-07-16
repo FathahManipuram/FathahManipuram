@@ -9,10 +9,10 @@ I build scalable web applications using
 - Express
 - MongoDB
 - AWS
-
-Currently learning
-
-- Docker
 - Nginx
 - EC2
-- CI/CD
+
+
+
+
+

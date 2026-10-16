@@ -14,5 +14,11 @@ I build scalable web applications using
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=abdulfathah)
+
+![NodeJS](https://img.shields.io/badge/Node.js-Expert-green)
+
+![React](https://img.shields.io/badge/React-Learning-blue)
+
 
 

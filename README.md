@@ -5,12 +5,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&vCenter=true&width=435&lines=+Full+Stack+Developer+;Mern+Developer+;I+build+scalable+web+applications" alt="Typing SVG" /></a>
 
+- React
+- Node.js
+- Express
+- MongoDB
+- AWS
 - Nginx
 - EC2
-![MongoDB](https://img.shields.io/badge/Node.js-Expert-green) ![Express](https://img.shields.io/badge/React-Learning-blue) ![React](https://img.shields.io/badge/React-Learning-blue) ![NodeJs](https://img.shields.io/badge/React-Learning-blue) ![Aws](https://img.shields.io/badge/React-Learning-blue)
+  
 
-
-![](https://komarev.com/ghpvc/?username=FathahManipuram)
 ![Profile Views](https://komarev.com/ghpvc/?username=FathahManipuram)
 
 
